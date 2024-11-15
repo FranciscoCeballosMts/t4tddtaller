@@ -3,8 +3,8 @@ package com.example.dev;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import static com.example.dev.Main_Kaprekar.itKaprekar;
 import static com.example.dev.Main_Kaprekar.kaprekarOp;
-import static org.junit.jupiter.api.Assertions.*;
 
 class Main_KaprekarTest {
 
